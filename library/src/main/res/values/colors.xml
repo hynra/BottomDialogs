@@ -2,6 +2,6 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-
+    <color name="bottom_dialog_bg">#ffffff</color>
     <color name="flat_pressed">#66999999</color>
 </resources>
